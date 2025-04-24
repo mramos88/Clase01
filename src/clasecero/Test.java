@@ -9,5 +9,5 @@ package clasecero;
  * @author Matias
  */
 public class Test {
-    
+    private String s;
 }
